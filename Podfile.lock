@@ -1,0 +1,60 @@
+PODS:
+  - FLEX (2.4.0)
+  - Neon (0.4.0)
+  - Pure (1.0.0):
+    - Pure/Core (= 1.0.0)
+  - Pure/Core (1.0.0)
+  - R.swift (4.0.0):
+    - R.swift.Library (~> 4.0.0)
+  - R.swift.Library (4.0.0)
+  - RxCocoa (4.2.0):
+    - RxSwift (~> 4.0)
+  - RxFlow (1.5.0):
+    - RxCocoa (>= 4.2.0)
+    - RxSwift (>= 4.2.0)
+  - RxSwift (4.2.0)
+  - SnapKit (4.0.0)
+  - SwiftyUserDefaults (3.0.1)
+  - Then (2.3.0)
+
+DEPENDENCIES:
+  - FLEX
+  - Neon
+  - Pure
+  - R.swift
+  - RxFlow
+  - RxSwift
+  - SnapKit
+  - SwiftyUserDefaults
+  - Then
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FLEX
+    - Neon
+    - Pure
+    - R.swift
+    - R.swift.Library
+    - RxCocoa
+    - RxFlow
+    - RxSwift
+    - SnapKit
+    - SwiftyUserDefaults
+    - Then
+
+SPEC CHECKSUMS:
+  FLEX: bd1a39e55b56bb413b6f1b34b3c10a0dc44ef079
+  Neon: 7fb5a9327e7e57911843f608e08f4893a74deaf9
+  Pure: b60f73ab5d35dd3aa61c2f203536020a30a92b92
+  R.swift: d6a5ec2f55a8441dc0ed9f1f8b37d7d11ae85c66
+  R.swift.Library: c3af34921024333546e23b70e70d0b4e0cffca75
+  RxCocoa: 0b54909c902e1e581212a03e690bbd94032d8baa
+  RxFlow: f44e449f4b32d7d95ef9ed5962fc66e7fa202308
+  RxSwift: 99e10317ddfcc7fbe01356aafd118fde4a0be104
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SwiftyUserDefaults: 3d273b1739b68ada3145dc754a70ec775bc5c8be
+  Then: ee21c97b85ff6062b9b0080c9abb1eea46743345
+
+PODFILE CHECKSUM: 1a9b88f20c37bbd65b0f0f6b293718cae9e1bfe0
+
+COCOAPODS: 1.5.3
